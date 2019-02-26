@@ -1,7 +1,7 @@
 dependencies:
 - name: admin-server
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
+  version: 0.0.4
 - name: api-gateway
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.21
